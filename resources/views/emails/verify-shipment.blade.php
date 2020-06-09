@@ -2,7 +2,7 @@
 
 <h3>Dear {{ $name }},</h3>
 
-@if($status)
+@if($is_active)
     <p>
         <strong>Your Shipment has been activated.</strong><br>
         <strong>Tracking ID:</strong> {{ $tracking_id }}

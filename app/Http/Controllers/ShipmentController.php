@@ -162,6 +162,7 @@ class ShipmentController extends Controller
             'email' => $shipment->user->email,
             'tracking_id' => $shipment->tracking_id,
             'email_subject' => $email_subject,
+            'is_active' => $shipment->is_active,
         ];
 
         Mail::send('emails.verify-shipment', $data, static function ($message) use ($data) {
