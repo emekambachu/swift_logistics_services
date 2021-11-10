@@ -143,8 +143,8 @@
                         <h4 class="widget-title">Our services</h4>
                         <ul>
                             <li><a href="{{ url('services') }}">Warhouse</a></li>
-                            <li><a href="{{ url('services') }}">Air Fright Soultions for all</a></li>
-                            <li><a href="{{ url('services') }}">Sea Fright solutions & Catering</a></li>
+                            <li><a href="{{ url('services') }}">Air Freight Soultions for all</a></li>
+                            <li><a href="{{ url('services') }}">Sea Freight solutions & Catering</a></li>
                             <li><a href="{{ url('services') }}">Storage</a></li>
                         </ul>
                     </div>

@@ -144,7 +144,7 @@ Home
                             </div>
                             <div class="content">
                                 <a href="#">
-                                    <h4 class="title">Air Fright</h4>
+                                    <h4 class="title">Air Freight</h4>
                                 </a>
                                 <p>Swift Logistics partners with airlines and freight forwarders to offer seamless air freight solutions to clients globally. We offer a competitive and quick service which includes our air express, high priority (24 hours) delivery.</p>
                             </div>
@@ -162,7 +162,7 @@ Home
                             </div>
                             <div class="content">
                                 <a href="#">
-                                    <h4 class="title">road fright</h4>
+                                    <h4 class="title">road Freight</h4>
                                 </a>
                                 <p>We work close with strategic partners to ensure our domestic trucking offers clients everything they need. We utilize track and trace capabilities to keep customers informed on their shipments at all times.</p>
                             </div>
@@ -395,7 +395,7 @@ Home
                                 <div class="row">
                                     <div class="col-md-6">
                                         <select id="f-type">
-                                            <option value="volvo">Fright Type</option>
+                                            <option value="volvo">Freight Type</option>
                                             <option value="saab">Saab</option>
                                             <option value="opel">Opel</option>
                                             <option value="audi">Audi</option>
