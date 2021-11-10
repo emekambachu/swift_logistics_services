@@ -1,9 +1,130 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d4f6b6fe-63cf-4dc2-a69a-35a92df03a3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/swiftlogservices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/swiftlogservices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/css/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/css/magnific-popup.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/css/owl.video.play.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/Flaticon.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/Flaticond41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-brands-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-brands-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-brands-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-brands-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-brands-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-brands-400d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-regular-400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-regular-400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-regular-400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-regular-400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-regular-400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-regular-400d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-solid-900.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-solid-900.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-solid-900.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-solid-900.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-solid-900.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/fonts/fa-solid-900d41d.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/bg/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/bg/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/bg/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/bg/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/bg/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/bg/06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/bg/07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/bg/08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/bg/09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/bg/breadcrumb-bg.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/blog-single/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/blog-single/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/blog-single/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/blog/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/blog/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/blog/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/breadcrumb/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/call-to-action/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/client/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/client/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/client/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/client/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/comments/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/comments/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/comments/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/header-slider/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/header-slider/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/header-slider/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/header-slider/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/logo-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/popular-post/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/popular-post/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/popular-post/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/request/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/service/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/service/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/service/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/service/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/service/05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/team/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/team/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/team/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/team/04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/testimonial/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/we-offer/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/we-offer/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/we-offer/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/we-offer/sign-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/we-offer/sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/we-provide/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/we-provide/02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/we-provide/03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/img/why-us/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/countries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/goolge-map-activate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/isotope.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/jquery-2.2.4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/jquery.magnific-popup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/assets/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/swiftlog_favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/swiftlog_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/swiftlog_logo.psd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public_html/web.config" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/filesystems.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/filesystems.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.php" beforeDir="false" afterPath="$PROJECT_DIR$/server.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,8 +258,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../softlinkexpress" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\swiftlogservices" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -160,6 +286,7 @@
       <workItem from="1594229611605" duration="156000" />
       <workItem from="1616131061304" duration="246000" />
       <workItem from="1616314340969" duration="74000" />
+      <workItem from="1636558147344" duration="1980000" />
     </task>
     <servers />
   </component>
@@ -179,9 +306,9 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1616314414647">
+    <state x="347" y="54" width="587" height="582" key="find.popup" timestamp="1636558315558">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1616314414647" />
+    <state x="347" y="54" width="587" height="582" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1636558315558" />
   </component>
 </project>

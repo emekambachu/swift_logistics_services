@@ -61,3 +61,6 @@ Route::get('/shipment-history/{tracking_id}',
 // Shipment History
 Route::post('/submit-checkpoint/{id}', ['uses' => 'ShipmentHistoryController@submitCheckpoint']);
 Route::get('/shipment-checkpoints/{id}', ['uses' => 'ShipmentHistoryController@shipmentCheckpoints']);
+
+// Github Deployment
+Route::post('github/deploy', 'GithubDeploymentController@deploy');
