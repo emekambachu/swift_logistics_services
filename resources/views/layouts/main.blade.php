@@ -142,7 +142,7 @@
                     <div class="footer-widget widget widget_nav_menu">
                         <h4 class="widget-title">Our services</h4>
                         <ul>
-                            <li><a href="{{ url('services') }}">Warhouse</a></li>
+                            <li><a href="{{ url('services') }}">Warehouse</a></li>
                             <li><a href="{{ url('services') }}">Air Freight Soultions for all</a></li>
                             <li><a href="{{ url('services') }}">Sea Freight solutions & Catering</a></li>
                             <li><a href="{{ url('services') }}">Storage</a></li>
@@ -191,7 +191,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="copyright-area-inner">
-                        &copy; Copyright 2020 Swift Logistics Services All rights reserved.
+                        &copy; Copyright {{ date('Y') }} Swift Logistics Services All rights reserved.
                     </div>
                 </div>
             </div>
